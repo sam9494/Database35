@@ -1,0 +1,10 @@
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\bin\Debug\Database35.dacpac
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\bin\Debug\Database35.dll
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\bin\Debug\Database35.pdb
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\Database35.dll
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\Database35.pdb
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\Model.xml
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\refactor.xml
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\postdeploy.sql
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\predeploy.sql
+C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\obj\Debug\Database35.sqlprojAssemblyReference.cache

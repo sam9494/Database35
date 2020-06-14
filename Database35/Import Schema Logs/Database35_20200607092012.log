@@ -1,0 +1,78 @@
+7/6/2020 下午5:20:12	This log contains information about the import schema operation into project 'Database35' on computer 'TI03NB186' by user 'sam.chong62'.
+7/6/2020 下午5:20:12	Import of database schema has started.
+7/6/2020 下午5:20:19	Gathering database options
+7/6/2020 下午5:20:19	Gathering users
+7/6/2020 下午5:20:19	Gathering roles
+7/6/2020 下午5:20:19	Gathering application roles
+7/6/2020 下午5:20:19	Gathering role memberships
+7/6/2020 下午5:20:19	Gathering filegroups
+7/6/2020 下午5:20:19	Gathering full-text catalogs
+7/6/2020 下午5:20:19	Gathering assemblies
+7/6/2020 下午5:20:19	Gathering certificates
+7/6/2020 下午5:20:19	Gathering asymmetric keys
+7/6/2020 下午5:20:19	Gathering symmetric keys
+7/6/2020 下午5:20:19	Gathering encrypted symmetric keys
+7/6/2020 下午5:20:19	Gathering schemas
+7/6/2020 下午5:20:19	Gathering XML schema collections
+7/6/2020 下午5:20:19	Gathering user-defined data types
+7/6/2020 下午5:20:19	Gathering user-defined types
+7/6/2020 下午5:20:19	Gathering table types
+7/6/2020 下午5:20:19	Gathering unique keys for table types
+7/6/2020 下午5:20:19	Gathering primary keys for table types
+7/6/2020 下午5:20:19	Gathering indexes for table types
+7/6/2020 下午5:20:19	Gathering check constraints for table types
+7/6/2020 下午5:20:19	Gathering default constraints for table types
+7/6/2020 下午5:20:19	Gathering partition functions
+7/6/2020 下午5:20:19	Gathering partition schemes
+7/6/2020 下午5:20:19	Gathering functions
+7/6/2020 下午5:20:19	Gathering encrypted functions
+7/6/2020 下午5:20:19	Gathering aggregates
+7/6/2020 下午5:20:19	Gathering procedures
+7/6/2020 下午5:20:19	Gathering encrypted procedures
+7/6/2020 下午5:20:19	Gathering tables
+7/6/2020 下午5:20:19	Gathering primary keys
+7/6/2020 下午5:20:20	Gathering unique constraints
+7/6/2020 下午5:20:20	Gathering foreign keys
+7/6/2020 下午5:20:20	Gathering default constraints
+7/6/2020 下午5:20:20	Gathering check constraints
+7/6/2020 下午5:20:20	Gathering views
+7/6/2020 下午5:20:20	Gathering encrypted views
+7/6/2020 下午5:20:20	Gathering indexes
+7/6/2020 下午5:20:20	Gathering statistics
+7/6/2020 下午5:20:20	Gathering full-text index stoplists
+7/6/2020 下午5:20:20	Gathering search property lists
+7/6/2020 下午5:20:20	Gathering search properties
+7/6/2020 下午5:20:20	Gathering full-text indexes
+7/6/2020 下午5:20:20	Gathering column store indexes
+7/6/2020 下午5:20:20	Gathering spatial indexes
+7/6/2020 下午5:20:20	Gathering XML indexes
+7/6/2020 下午5:20:20	Gathering Selective XML indexes
+7/6/2020 下午5:20:20	Gathering encrypted triggers
+7/6/2020 下午5:20:20	Gathering triggers
+7/6/2020 下午5:20:20	Gathering encrypted and clr ddl triggers
+7/6/2020 下午5:20:20	Gathering ddl triggers
+7/6/2020 下午5:20:20	Gathering synonyms
+7/6/2020 下午5:20:20	Gathering defaults
+7/6/2020 下午5:20:20	Gathering data constraint uddt bindings
+7/6/2020 下午5:20:20	Gathering rules
+7/6/2020 下午5:20:20	Gathering data constraint uddt bindings
+7/6/2020 下午5:20:20	Gathering message types
+7/6/2020 下午5:20:20	Gathering queues
+7/6/2020 下午5:20:20	Gathering contracts
+7/6/2020 下午5:20:20	Gathering services
+7/6/2020 下午5:20:20	Gathering event notifications
+7/6/2020 下午5:20:20	Gathering remote service bindings
+7/6/2020 下午5:20:20	Gathering broker priorities
+7/6/2020 下午5:20:20	Gathering signatures
+7/6/2020 下午5:20:20	Gathering data compression options
+7/6/2020 下午5:20:20	Gathering sequence types
+7/6/2020 下午5:20:20	Gathering database permissions
+7/6/2020 下午5:20:20	Gathering extended properties
+7/6/2020 下午5:20:20	Gathering credentials
+7/6/2020 下午5:20:20	Gathering logins
+7/6/2020 下午5:20:20	Gathering server audits
+7/6/2020 下午5:20:20	Scanning project for duplicate elements
+7/6/2020 下午5:20:20	Finished duplicate element processing
+7/6/2020 下午5:20:20	Finished importing database.
+7/6/2020 下午5:20:20	A summary of the import was saved to the following location: C:\Users\sam.chong62\Desktop\Pratice Test\workplace\Database35\Database35\Import Schema Logs\Database35_20200607092012.log
+7/6/2020 下午5:20:20	Click Finish to continue...
